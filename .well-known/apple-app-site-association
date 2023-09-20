@@ -4,7 +4,7 @@
       "details": [
       {
         "appID": "PJJSD7472Q.com.oliveus",
-        "paths": ["*"]
+        "paths": ["/join*"]
       }
     ]
   }
