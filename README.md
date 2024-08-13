@@ -1,1 +1,0 @@
-# tihorskiialeks.github.io
