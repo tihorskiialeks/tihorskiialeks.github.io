@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "de.parteibook24",
-      "sha256_cert_fingerprints":
-      ["43:2C:CA:75:03:A5:16:61:63:4E:04:BB:4C:10:81:C5:9F:44:A4:F5:FE:CA:B4:C4:EE:22:61:37:FA:EA:88:4C"]
-    }
-  }]
